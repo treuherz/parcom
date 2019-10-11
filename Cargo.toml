@@ -1,0 +1,7 @@
+[package]
+name = "parcom"
+version = "0.1.0"
+authors = ["Eli Treuherz <et@arenko.group>"]
+edition = "2018"
+
+[dependencies]
